@@ -1,2 +1,2 @@
-# AF.DataAccessor.Sample.Script
-Database script for AF.DataAccessor.Sample.Script
+# AF.SampleApplication.Script
+Database script for AF.SampleApplication.Script
